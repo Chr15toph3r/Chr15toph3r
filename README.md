@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">console.log('hi there') <img src="https://media.tenor.com/DueiXPEZC6sAAAAi/hi-twitch.gif" width="70"></h1>
 
-<!--
-**Chr15toph3r/Chr15toph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/C%3A%5Cusers%5CCristopher%20Avila%3Eaboutme-black?style=flat) {
+<br>
+![Static Badge](https://img.shields.io/badge/My%20name%3A%20Cristopher%20%C3%81vila-black?style=flat)
+<br>
+![Static Badge](https://img.shields.io/badge/Age%3A%2022-black?style=flat)
+<br>
+![Static Badge](https://img.shields.io/badge/System%20engineer%20student%20at%3A%20Universidad%20de%20Margarita%20%F0%9F%92%BB-black?style=flat)
+<br>
+![Static Badge](https://img.shields.io/badge/Currently%20learning%3A-black?style=flat) 
+![Static Badge](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=white&labelColor=black) <br>
+<img src="https://media.tenor.com/G78MfVfnwpYAAAAi/desktop-computer-new-computers.gif" width="150"><br>
+}
