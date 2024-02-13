@@ -1,6 +1,6 @@
 <h1 align="center">console.log('hi there') <img src="https://media.tenor.com/DueiXPEZC6sAAAAi/hi-twitch.gif" width="70"></h1>
 
-![Static Badge](https://img.shields.io/badge/C%3A%5Cusers%5CCristopher%20Avila%3Eaboutme-black?style=flat) {
+![Static Badge](https://img.shields.io/badge/let%20aboutme%20%7B-black?style=flat)
 <br>
 ![Static Badge](https://img.shields.io/badge/My%20name%3A%20Cristopher%20%C3%81vila-black?style=flat)
 <br>
@@ -13,4 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=white&labelColor=black) <br>
 <img src="https://media.tenor.com/G78MfVfnwpYAAAAi/desktop-computer-new-computers.gif" width="150"><br>
-}
+![Static Badge](https://img.shields.io/badge/%7D-black?style=flat)
+
+
